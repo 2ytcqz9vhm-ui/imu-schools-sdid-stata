@@ -5,7 +5,7 @@ STATA code for my dissertation evaluating the impact of the Independent Monitori
 This repository contains the STATA code used for my dissertation evaluating the impact of the Independent Monitoring Unit (IMU) reform in Khyber Pakhtunkhwa, Pakistan, on teacher attendance and child learning outcomes. The analysis uses district-level ASER panel data (2012–2018) and applies the Synthetic Difference-in-Differences (SDID) method.
 
 ## Overview
-The code in this repository cleans the ASER dataset, prepares treatment and control groups, implements SDID, and generates all tables and figures included in the dissertation.
+The code in this repository cleans the ASER dataset, prepares treatment and control groups, implements SDID, and generates all tables and figures included in the dissertation. Everything is contained in this single do-file.
 
 ## Data
 - **ASER Pakistan** district-level panel data (2012–2018)  
